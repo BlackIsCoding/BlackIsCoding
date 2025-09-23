@@ -1,39 +1,83 @@
-## wassup! i'm Ayoub Koudri 👋, 
-i am an ambitious kid that is willing to do whatever it takes to work for FAANG companies oneday , and do something his after :)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackIsCoding/BlackIsCoding/main/banner.png" alt="Header Banner" />
+</p>
+
+<h2 align="center">Yo, I am Ayoub Koudri 👋</h2>
+
+<p align="center">
+I am an ambitious kid willing to do whatever it takes to work for FAANG companies one day.<br>
+I love exploring programming, building projects, and learning something new every day.
+</p>
+
+---
 
 ## 🚀 Currently Learning
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-
-
-## My Goals :
-- gets comfortable with C language and build cool projects using it
-- be able to solve medium - hard leetcode exercices
-- solid C1 in english for opportunities abroad
-  
-## 📊 GitHub Stats  
-
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackIsCoding&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsCoding&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-83A598?style=for-the-badge&logo=c&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Linux-FABD2F?style=for-the-badge&logo=linux&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Makefiles-D3869B?style=for-the-badge&logo=gnu&logoColor=282828" />
+</p>
 
 ---
 
-## 📆 Weekly Activity  
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BlackIsCoding&theme=react-dark)  
-
----
-
-## 🎓 Education  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="50" /> 42 School   
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/1337_Logo.png" width="50" /> 1337 School Morocco  
-
-Currently studying at **42 Network / 1337 School Morocco**  
-📚 A wondeful environemment for collaboration and success 🚀  
+## 🧠 Interests
+<p align="center">
+💡 Exploring new ideas • 📊 Algorithms & Problem Solving • 🔍 Understanding how things work
+</p>
 
 ---
 
-## 📫 Let's Connect  
-📧 Email: likewhatsit@gmail.com
+## 🎯 My Goal
+<p align="center">
+🎨 Build cool projects with C and Linux • Solve medium-hard LeetCode problems • Reach solid C1 level in English
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackIsCoding&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsCoding&layout=compact&theme=gruvbox" />
+</p>
+<p align="center">
+  <pre>
+      /\_/\  
+     ( o.o )  Keep coding!
+      > ^ <
+  </pre>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackIsCoding&theme=react-dark&hide_border=false&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
+  <br>
+  <small>📆 Weekly Activity </small>
+</p>
+
+---
+
+## 🎓 Education
+<p align="center">
+  <img src="https://img.shields.io/badge/42_School-1337-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
+  <br>
+  <img src="https://img.shields.io/badge/1337_School-Morocco-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
+  <br><br>
+  <small>
+    📚 Currently studying at 42 Network / 1337 School Morocco — a playground for coding, collaboration, and success 🚀
+  </small>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackIsCoding&theme=gruvbox" />
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayoub-koudri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br><br>
+  📧 <a href="mailto:likewhatsit@gmail.com">likewhatsit@gmail.com</a>
+</p>
 
