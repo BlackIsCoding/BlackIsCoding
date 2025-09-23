@@ -6,7 +6,7 @@
 
 <p align="center">
 I am an ambitious kid willing to do whatever it takes to work for FANG companies one day,
-  and then something his own<br>
+  and then do something his own<br>
 I love challenging myself, and taste the dopamine dose after solving a problem.
 </p>
 
