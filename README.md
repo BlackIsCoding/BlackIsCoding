@@ -26,6 +26,8 @@ i am an ambitious kid that is willing to do whatever it takes to work for FAANG 
 ---
 
 ## 🎓 Education  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="50" /> 42 School   
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/1337_Logo.png" width="50" /> 1337 School Morocco  
 
 Currently studying at **42 Network / 1337 School Morocco**  
 📚 A wondeful environemment for collaboration and success 🚀  
@@ -33,6 +35,5 @@ Currently studying at **42 Network / 1337 School Morocco**
 ---
 
 ## 📫 Let's Connect  
-likewhatsit@gmail.com
-📧 Email: your-email@example.
+📧 Email: likewhatsit@gmail.com
 
