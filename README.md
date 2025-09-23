@@ -7,7 +7,7 @@
 <p align="center">
 I am an ambitious kid willing to do whatever it takes to work for FAANG companies one day,
   and then something his own<br>
-I love challenging myself, and taste the dopamine dose after solving an exercice.
+I love challenging myself, and taste the dopamine dose after solving a problem.
 </p>
 
 ---
@@ -44,9 +44,9 @@ I love challenging myself, and taste the dopamine dose after solving an exercice
 </p>
 <p align="center">
   <pre>
-      🧙‍♂️
-      (•_•)  "WHAT IF" IS THE DEVIL'S TRAP, KEEP GRINDING!!
-      <|   |>
+        _
+      (•~•)  "WHAT IF" IS THE DEVIL'S TRAP, KEEP GRINDING!!
+      <| |>
        / \
   </pre>
 </p>
