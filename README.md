@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/BlackIsCoding/BlackIsCoding/main/banner.png" alt="Header Banner" />
 </p>
 
-<h2 align="center">Yo, I am Ayoub Koudri 👋</h2>
+<h2 align="center">wassup, I am Ayoub Koudri 👋</h2>
 
 <p align="center">
 I am an ambitious kid willing to do whatever it takes to work for FAANG companies one day.<br>
-I love exploring programming, building projects, and learning something new every day.
+I love challenging myself, and taste the dopamine dose after solving an exercice.
 </p>
 
 ---
@@ -29,7 +29,9 @@ I love exploring programming, building projects, and learning something new ever
 
 ## 🎯 My Goal
 <p align="center">
-🎨 Build cool projects with C and Linux • Solve medium-hard LeetCode problems • Reach solid C1 level in English
+🎨 Build cool projects with C and Linux 
+  • Solve medium-hard LeetCode problems 
+  • Reach solid C1 level in English
 </p>
 
 ---
@@ -62,7 +64,7 @@ I love exploring programming, building projects, and learning something new ever
   <img src="https://img.shields.io/badge/1337_School-Morocco-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
   <br><br>
   <small>
-    📚 Currently studying at 42 Network / 1337 School Morocco — a playground for coding, collaboration, and success 🚀
+    📚 Currently studying at 42 Network / 1337 School Morocco — a wonderful environnement for collaboration, and success 🚀
   </small>
 </p>
 
@@ -74,7 +76,7 @@ I love exploring programming, building projects, and learning something new ever
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayoub-koudri/" target="_blank">
+  <a href="https://www.linkedin.com/in/Ayoub-Koudri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br><br>
