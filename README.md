@@ -5,7 +5,8 @@
 <h2 align="center">wassup, I am Ayoub Koudri 👋</h2>
 
 <p align="center">
-I am an ambitious kid willing to do whatever it takes to work for FAANG companies one day.<br>
+I am an ambitious kid willing to do whatever it takes to work for FAANG companies one day,
+  and then something his own<br>
 I love challenging myself, and taste the dopamine dose after solving an exercice.
 </p>
 
@@ -43,11 +44,13 @@ I love challenging myself, and taste the dopamine dose after solving an exercice
 </p>
 <p align="center">
   <pre>
-      /\_/\  
-     ( o.o )  Keep coding!
-      > ^ <
+      🧙‍♂️
+      (•_•)  "WHAT IF" IS THE DEVIL'S TRAP, KEEP GRINDING!!
+      <|   |>
+       / \
   </pre>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackIsCoding&theme=react-dark&hide_border=false&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
