@@ -81,8 +81,11 @@ I love challenging myself, and taste the dopamine dose after solving a problem.
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ayoub-Koudri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ayoub-koudri-36b376384" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Koudri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Stepo_1" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/views/UC3Ml5LM8MRx6uOFaM2LUeLw?style=social" />
   </a>
   <br><br>
   📧 <a href="mailto:likewhatsit@gmail.com">likewhatsit@gmail.com</a>
