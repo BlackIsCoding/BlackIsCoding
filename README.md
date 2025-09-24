@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="banne_ropped.jpg" alt="He who would climb the ladder must begin at the bottom." heigth="200" />
+  <img src="banne_ropped.jpg" alt="He who would climb the ladder must begin at the bottom." height="200" />
 </p>
-
-
 
 <h2 align="center">wassup, I am Ayoub Koudri 👋</h2>
 
 <p align="center">
 I am an ambitious kid willing to do whatever it takes to work for FANG companies one day,
-  and then do something his own<br>
-I love challenging myself, and taste the dopamine dose after solving a problem.
+and then do something his own.<br>
+I love challenging myself, and tasting the dopamine rush after solving a problem.
 </p>
 
 ---
@@ -32,20 +30,19 @@ I love challenging myself, and taste the dopamine dose after solving a problem.
 
 ## 🎯 My Goal
 <p align="center">
-🎨 Build cool projects with C and Linux 
-  • Solve medium-hard LeetCode problems 
-  • Reach solid C1 level in English
+🎨 Build cool projects with C and Linux • Solve medium-hard LeetCode problems • Reach solid C1 level in English
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackIsCoding&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsCoding&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackIsCoding&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsCoding&layout=compact&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <pre>
+  <pre style="color:#9D7AFF">
         _
       (•~•)  "WHAT IF" IS THE DEVIL'S TRAP, KEEP GRINDING!!
       <| |>
@@ -53,11 +50,10 @@ I love challenging myself, and taste the dopamine dose after solving a problem.
   </pre>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackIsCoding&theme=react-dark&hide_border=false&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackIsCoding&theme=react-dark&hide_border=false&bg_color=1B1B2F&color=9D7AFF&line=00FFFF&point=FFD700" alt="Weekly Contribution Graph" />
   <br>
-  <small>📆 Weekly Activity </small>
+  <small>📆 Weekly Activity</small>
 </p>
 
 ---
@@ -69,12 +65,12 @@ I love challenging myself, and taste the dopamine dose after solving a problem.
   <img src="https://img.shields.io/badge/1337_School-Morocco-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
   <br><br>
   <small>
-    📚 Currently studying at 42 Network / 1337 School Morocco — a wonderful environnement for collaboration, and success 🚀
+    📚 Currently studying at 42 Network / 1337 School Morocco — a wonderful environment for collaboration and success 🚀
   </small>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackIsCoding&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackIsCoding&theme=tokyonight" />
 </p>
 
 ---
@@ -82,13 +78,14 @@ I love challenging myself, and taste the dopamine dose after solving a problem.
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ayoub-koudri-36b376384" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Koudri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Koudri-9D7AFF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Stepo_1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-00FFFF?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <br><br>
   📧 <a href="mailto:likewhatsit@gmail.com">likewhatsit@gmail.com</a>
 </p>
+
 
 
