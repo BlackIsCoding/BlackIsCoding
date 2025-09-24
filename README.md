@@ -2,10 +2,11 @@
   <img src="banne_ropped.jpg" alt="He who would climb the ladder must begin at the bottom." height="200" />
 </p>
 
-<h2 align="center">wassup, I am Ayoub Koudri 👋</h2>
+
+<h2 align="center" style="color:#9D7AFF">wassup, I am Ayoub Koudri 👋</h2>
 
 <p align="center">
-I am an ambitious kid willing to do whatever it takes to work for FANG companies one day,
+I am an ambitious kid willing to do whatever it takes to work for FANG companies one day,<br>
 and then do something his own.<br>
 I love challenging myself, and tasting the dopamine rush after solving a problem.
 </p>
@@ -37,12 +38,12 @@ I love challenging myself, and tasting the dopamine rush after solving a problem
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackIsCoding&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsCoding&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackIsCoding&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&include_all_commits=true&bg_color=1B1B2F&title_color=9D7AFF&icon_color=00FFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsCoding&layout=compact&theme=tokyonight&bg_color=1B1B2F&title_color=9D7AFF&hide_border=false" />
 </p>
 
 <p align="center">
-  <pre style="color:#9D7AFF">
+  <pre style="color:#9D7AFF; font-weight:bold">
         _
       (•~•)  "WHAT IF" IS THE DEVIL'S TRAP, KEEP GRINDING!!
       <| |>
@@ -78,14 +79,15 @@ I love challenging myself, and tasting the dopamine rush after solving a problem
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ayoub-koudri-36b376384" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Koudri-9D7AFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Koudri-9D7AFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B1B2F" />
   </a>
   <a href="https://www.youtube.com/@Stepo_1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-00FFFF?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-00FFFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1B1B2F" />
   </a>
   <br><br>
   📧 <a href="mailto:likewhatsit@gmail.com">likewhatsit@gmail.com</a>
 </p>
+
 
 
 
