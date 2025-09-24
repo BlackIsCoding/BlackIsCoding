@@ -85,9 +85,10 @@ I love challenging myself, and taste the dopamine dose after solving a problem.
     <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Koudri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Stepo_1" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UC3Ml5LM8MRx6uOFaM2LUeLw?style=social" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <br><br>
   📧 <a href="mailto:likewhatsit@gmail.com">likewhatsit@gmail.com</a>
 </p>
+
 
