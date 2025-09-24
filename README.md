@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banne_ropped.jpg" alt="He who would climb the ladder must begin at the bottom." width="800" />
+  <img src="banne_ropped.jpg" alt="He who would climb the ladder must begin at the bottom." heigth="200" />
 </p>
 
 
