@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackIsCoding/BlackIsCoding/main/banner.png" alt="Header Banner" />
+  <img src="banner_resized.jpg" alt="He who would climb the ladder must begin at the bottom." width="1000" />
 </p>
+
 
 <h2 align="center">wassup, I am Ayoub Koudri 👋</h2>
 
